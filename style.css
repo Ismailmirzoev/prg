@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.b1 {
+    display: flex;
+    background-color: rgb(70, 70, 70 ,0.7);
+    height: 100px;
+    justify-content: center;
+    color: white;
+}
+.parent {
+    background: url(./Без\ названия\ \(14\).jpeg) no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.b2 {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 100px;
+}
+button {
+    padding: 10px;
+    width: 100px;
+    color: white;
+    background-color: orange;
+}
